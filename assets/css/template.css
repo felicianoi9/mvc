@@ -1,0 +1,454 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-size: 13px;
+	font-family: Arial;
+	
+}
+.leftmenu{
+	width: 200px;
+	background-color: #1f232a;
+	position: fixed;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	color: #fff;
+
+}
+.company_name{
+	height: 100px;
+	line-height: 100px;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+}
+.container{
+	padding-left: 200px;
+
+}
+
+.top{
+	height: 40px;
+	background-color: #232830;
+	color: #fff;
+	font-size: 13px;
+} 
+.top_right{
+	float: right;
+	height: 40px;
+	line-height: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+.top_right a{
+	color: #fff;
+	text-decoration: none;
+	cursor: pointer;
+
+
+}
+.top_right a:hover{
+	color: #000;
+	cursor: pointer;
+}
+.top_right .sair{
+	height: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+	color: #000;
+	cursor: pointer;
+
+}
+.sair:hover{
+	background-color: orange;
+} 
+
+
+.menu_area{
+	color: #fff;
+}
+.menu_area ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.menu_area li{
+	height: 40px;
+	line-height: 40px;
+	font-size: 12px;
+	padding-left: 30px;
+	background-size: 10px 10px;
+	background-repeat: no-repeat;
+	background-position: 10px 14px;
+}
+.menu_area li:hover{
+	background-color: #000;
+}
+.menu_area li a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+}
+.menu_area li:nth-child(1){
+	background-image: url('../images/home.png');
+}
+.menu_area li:nth-child(2){
+	background-image: url('../images/key.png');
+}
+.menu_area li:nth-child(3){
+	background-image: url('../images/users.png');
+}
+.menu_area li:nth-child(4){
+	background-image: url('../images/clients.png');
+}
+.menu_area li:nth-child(5){
+	background-image: url('../images/inventory.png');
+}
+.menu_area li:nth-child(6){
+	background-image: url('../images/sales.png');
+}
+.menu_area li:nth-child(7){
+	background-image: url('../images/purchases.png');
+}
+.menu_area li:nth-child(8){
+	background-image: url('../images/providers.png');
+}
+.menu_area li:nth-child(9){
+	background-image: url('../images/reports.png');
+}
+.menu_area li:nth-child(10){
+	background-image: url('../images/sales.png');
+}
+
+.area{
+
+	padding: 15px;
+	
+}
+.tabitem{
+	float: left;
+	width: 50%;
+	text-align: center;
+	height: 40px;
+	line-height:40px;
+	border-bottom: 1px solid #000;
+	background-color: #eee;
+	cursor: pointer;
+}
+.tabarea{
+	height: 40px;
+	line-height: 40px;
+	
+
+}
+.activetab{
+	border-bottom: 1px solid #fff;
+	background-color: #79a8f9;
+	color: #224074;
+}
+.tabbody{
+	display: none;
+	margin-top: 20px;
+
+
+}
+.tabcontent{
+
+}
+input[type=text],
+input[type=email],
+input[type=password],
+input[type=number],
+select,
+textarea{
+	margin-top: 5px;
+	width: 100%;
+	height: 30px;
+	font-size: 12px;
+	outline: 0;
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+textarea{
+	height: 100px;
+	border: 3px solid #ccc;
+
+}
+input[type=submit], button,.button{
+	border: 0px;
+	background-color: #224074;
+	color:#fff;
+
+	height: 40px;
+	border-radius: 3px;
+	padding-left: 20px;
+	padding-right: 20px;
+	cursor: pointer;
+	display: inline-block;
+
+}
+.button_small{
+	height: 40px;
+	line-height: 40px;
+}
+.button a{
+
+	color: #fff;
+	text-decoration: none;
+	height: 40px;
+	line-height: 40px;
+}
+
+table{
+	margin-top: 10px;
+
+}
+
+table th{
+	height: 40px;
+	line-height: 40px;
+	background-color: #ccc;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+
+table td{
+	height: 40px;
+	line-height: 40px;
+	background-color: #eee;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 5px;
+}
+.p_item{
+	height: 30px;
+	line-height: 30px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.warning{
+	border: 2px solid #ff0000;
+	padding: 10px;
+	background-color: #ff9999;
+	color: #fff;
+	margin-top: 5px;
+	border-radius: 5px;
+	padding-left: 40px;
+	
+	text-align: center;
+}
+.obrigatorio{
+	color: #ccc;
+	font-size: 9px;
+	font-style: italic;
+}
+.pagination{
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.pag_item{
+	width: 20px;
+	height: 20px;
+	float: left;
+	border: 1px solid #000;
+	border-radius: 3px;
+	margin-right: 3px;
+	text-align: center;
+	line-height: 20px;
+}
+.pag_item a{
+	color: #000;
+	text-decoration: none;
+}
+.pag_ativo{
+	background-color: #224074;
+	
+}
+.pag_ativo a{
+	color: #fff;
+}
+#busca{
+	width: 100px;
+	float: right;
+	background-image: url('../images/search.png');
+	background-repeat: no-repeat;
+	background-size: 15px 15px;
+	background-position: 5px;
+	padding-left: 25px;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+}
+.searchresults{
+	width: 250px;
+	background-color: #fff;
+	position: absolute;
+	border: 1px solid #ccc;
+
+}
+.si{
+	height: 20px;
+	line-height: 20px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+.si a{
+	color: #000;
+	text-decoration: none;
+	display: block;
+}
+.si:hover{
+	background-color: #eee;
+} 
+
+
+.grid-1{
+	width: 33%;
+	float: left;	
+}
+.grid-2{
+	width: 66%;
+	float: left;	
+}
+.grid-3{
+	width: 100%;
+	float: left;	
+}
+.db-grid-area{
+	color: #fff;
+	background-color: #36A200;
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 100px;
+	padding-left: 20px;
+}
+.row1 .grid-1:nth-child(1) .db-grid-area{
+	margin-left: 0;
+}
+.row1 .grid-1:nth-child(3) .db-grid-area{
+	margin-right: 0;
+}
+.row2 .grid-2 .db-info{
+	margin-left: 0;
+	
+}
+.row2 .grid-1 .db-info{
+	margin-right: 0;
+	
+}
+
+.db-grid-area-count{
+	font-size: 28px;
+	padding-top: 24px;
+}
+.db-grid-area-legend{
+	font-size: 14px;
+}
+.db-row{
+	clear: both;
+
+}
+.db-info{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: #fff;
+}
+.db-info-title{
+	height: 40px;
+	line-height: 40px;
+	font-size: 17px;
+	padding-left: 10px;
+	border-bottom: 1px solid #ccc;
+}
+.db-info-body{
+	padding: 10px;
+}
+
+#client_name, #provider_name{
+	width: 250px;
+	float: left;
+}
+
+.client_add_button, .provider_add_button{
+	font-size: 17px;
+	height: 30px;
+	line-height: 26px;
+	display: block;
+	float: left;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.p_quant{
+	width: 60px !important;
+}
+.report_item{
+	border-radius: 10px;
+	width: 150px;
+	height: 140px;
+	float: left;
+	background-color: #ccc;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+	font-size: 17px;
+}	
+.report_item a {
+
+	display: block;
+	color: #000;
+	text-decoration: none;
+}
+.report-grid-4{
+	width: 20%;
+	margin: 10px;
+	height: 150px;
+	float: left;
+	text-align: center;
+	font-family: arial;
+}
+
+.financial_item{
+	width: 40%;
+	height: 140px;
+	float: left;
+	color: white;
+	margin: 10px;
+	padding: 20px;
+	text-align: center;
+	font-size: 17px;
+	border-radius: 10px;
+}
+.financial_item a {
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+.financail_item, .collor_revenues{
+	background-color: green;
+}
+.financail_item, .collor_expenses{
+	background-color: red;
+}
+.ops{
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: orange;
+	color: red;
+	text-align: center;
+	border-radius: 10px;
+}
+fieldset{
+	border-radius: 5px;
+
+}
