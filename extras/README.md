@@ -1,0 +1,1 @@
+Nesta pasta estão os arquivos .htaccess, config.php, Core.php, environment.php para serem usadas no servidor
