@@ -10,7 +10,7 @@
 	
 	<?php foreach($users_list as $us):?>
 	<tr>
-		<td><?php echo $us['name']; ?>	</td>
+		<td><?php echo utf8_encode($us['name']); ?>	</td>
 		<td><?php echo $us['email']; ?>	</td>
 		<td><?php echo $us['name_group']; ?>	</td>
 		<td width="180">

@@ -1,8 +1,7 @@
 <?php
 class Core{
 	public function run(){
-		$url = explode('index.php',$_SERVER['PHP_SELF']);
-		$url = end($url);
+		$url = '/'.((isset($_GET['url']))?$_GET['url']:'');
 
 		$params = array(); 
 		if (!empty($url) && $url!='/'){
@@ -27,6 +26,12 @@ class Core{
 			$currentController = 'homeController';
 			$currentAction = 'index';
 		}
+
+		if(!file_exists('controllers/'.$currentController.'.php')){
+			$currentController='notfoundController';
+			$currentAction = 'index';
+		}
+		require_once 'core/Controller.php';
 
 		$c = new $currentController();
 		call_user_func_array(array($c,$currentAction), $params);

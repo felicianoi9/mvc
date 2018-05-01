@@ -32,7 +32,7 @@
         <div class="container">
             <div class="top" >
                 <div class="top_right "><div class="sair"><a href="<?php echo BASE.'/login/logout';?>">Sair</a></div></div>
-                <div class="top_right"><?php echo "Olá, ".$viewData['user_name']."!";?></div>
+                <div class="top_right"><?php echo "Olá, ".utf8_encode($viewData['user_name'])."!";?></div>
                 
             </div>
             <div class="area">
