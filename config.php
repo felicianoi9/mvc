@@ -11,11 +11,12 @@ if(ENVIRONMENT == 'development') {
 	$config['dbpass'] = '';
 	define('BASE','http://localhost/controlvendas'); 
 } else {
-	$config['dbname'] = 'ndswxxcq_control';
+	$config['dbname'] = 'r2627_control';
 	$config['host'] = 'localhost';
-	$config['dbuser'] = 'ndswxxcq_rogerio';
+	$config['dbuser'] = 'r2627_feliciano';
 	$config['dbpass'] = 'T97ju21@t@t@t';
 
-	define('BASE','https://www.felicianoi9.com.br/control');
+	define('BASE','http://200.201.210.50/~r2627/control');
 }
 ?>
+
