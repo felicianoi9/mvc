@@ -1,0 +1,70 @@
+[08-Aug-2017 22:25:34 America/Sao_Paulo] PHP Fatal error:  Call to a member function hasPermission() on a non-object in /home/rogerio/public_html/sistema/models/Users.php on line 99
+[08-Aug-2017 22:25:36 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[08-Aug-2017 22:25:36 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[09-Aug-2017 22:06:32 America/Sao_Paulo] PHP Fatal error:  Call to a member function hasPermission() on a non-object in /home/rogerio/public_html/sistema/models/Users.php on line 99
+[09-Aug-2017 22:06:33 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 12:50:39 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 21:37:46 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:37:56 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:40:04 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 21:40:13 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:41:51 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:45:23 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:49:58 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:50:01 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:50:08 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 21:50:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:51:26 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:51:39 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:52:25 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:57:16 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:58:07 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 21:58:18 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 22:00:52 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 22:04:05 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 22:04:36 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 22:14:48 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:14:48 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:16:00 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:16:17 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:16:30 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:16:51 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:18:11 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 22:18:51 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:18:52 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:19:06 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/rogerio/public_html/sistema/controllers/clientsController.php:138) in /home/rogerio/public_html/sistema/controllers/clientsController.php on line 47
+[27-Aug-2017 22:21:17 America/Sao_Paulo] PHP Fatal error:  Class 'assetsController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:22 America/Sao_Paulo] PHP Fatal error:  Class 'fController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:23 America/Sao_Paulo] PHP Fatal error:  Class 'ferController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:23 America/Sao_Paulo] PHP Fatal error:  Class 'ferController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:26 America/Sao_Paulo] PHP Fatal error:  Class 'fernController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:26 America/Sao_Paulo] PHP Fatal error:  Class 'fernaController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:26 America/Sao_Paulo] PHP Fatal error:  Class 'fernanController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:52 America/Sao_Paulo] PHP Fatal error:  Class 'fController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:52 America/Sao_Paulo] PHP Fatal error:  Class 'ferController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:52 America/Sao_Paulo] PHP Fatal error:  Class 'ferController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:52 America/Sao_Paulo] PHP Fatal error:  Class 'fernController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:53 America/Sao_Paulo] PHP Fatal error:  Class 'fernanController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:27:53 America/Sao_Paulo] PHP Fatal error:  Class 'fernanController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:29:03 America/Sao_Paulo] PHP Fatal error:  Class 'FController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:29:03 America/Sao_Paulo] PHP Fatal error:  Class 'FeController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:29:03 America/Sao_Paulo] PHP Fatal error:  Class 'FerController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:29:04 America/Sao_Paulo] PHP Fatal error:  Class 'FeController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:29:04 America/Sao_Paulo] PHP Fatal error:  Class 'FController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:45 America/Sao_Paulo] PHP Fatal error:  Class 'roController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:46 America/Sao_Paulo] PHP Fatal error:  Class 'roController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:46 America/Sao_Paulo] PHP Fatal error:  Class 'rogController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:46 America/Sao_Paulo] PHP Fatal error:  Class 'rogerController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:47 America/Sao_Paulo] PHP Fatal error:  Class 'rogerController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:47 America/Sao_Paulo] PHP Fatal error:  Class 'rogerioController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:47 America/Sao_Paulo] PHP Fatal error:  Class 'rogerioController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:51 America/Sao_Paulo] PHP Fatal error:  Class 'roController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:30:51 America/Sao_Paulo] PHP Fatal error:  Class 'roController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:31:20 America/Sao_Paulo] PHP Fatal error:  Class 'rController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:31:21 America/Sao_Paulo] PHP Fatal error:  Class 'roController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:35:01 America/Sao_Paulo] PHP Fatal error:  Class 'FController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:35:02 America/Sao_Paulo] PHP Fatal error:  Class 'FeController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:35:02 America/Sao_Paulo] PHP Fatal error:  Class 'FerController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:35:06 America/Sao_Paulo] PHP Fatal error:  Class 'FeController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:35:07 America/Sao_Paulo] PHP Fatal error:  Class 'FController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31
+[27-Aug-2017 22:36:18 America/Sao_Paulo] PHP Fatal error:  Class 'fController' not found in /home/rogerio/public_html/sistema/core/Core.php on line 31

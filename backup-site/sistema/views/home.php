@@ -1,0 +1,1 @@
+Home .... <?php echo $company_name;?>
