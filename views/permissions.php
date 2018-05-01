@@ -36,7 +36,7 @@
 			<?php foreach ($permissions_list as $p) : ?>
 			<tr>
 				<td><?php echo $p['name']; ;?>	</td>
-				<td><?php echo $p['name2']; ;?>	</td>
+				<td><?php echo utf8_encode($p['name2']);?>	</td>
 				<td width="50"><div class="button button_small"><a href="<?php echo BASE;?>/permissions/delete/<?php echo $p['id'];?>" onclick="return confirm('Tem certeza que deseja excluir?')">Excluir</a></div></td>
 			</tr>
 			<?php endforeach;?>
